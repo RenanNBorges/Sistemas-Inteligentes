@@ -1,0 +1,1 @@
+Repositório com arquivos usados na disciplina de Sistemas Inteligentes
